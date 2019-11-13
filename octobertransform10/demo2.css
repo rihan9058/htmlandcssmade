@@ -1,0 +1,542 @@
+.one{
+	border: 1px solid black;
+	border: none;
+	height: 500px;
+	width: 450px;
+	background-color: lightgray;
+	box-shadow: 0px 5px 15px 0px;
+	position: absolute;
+	top: 70px;
+	left: 30px;
+}
+
+.two{
+    border: 1px solid black;
+	border: none;
+	height: 500px;
+	width: 855px;
+	background-color: white;
+	position: absolute;
+	top: 70px;
+	left: 480px;	
+}
+
+h1{
+	font-size: 85px;
+	color: whitesmoke;
+	opacity: 0.3;
+	position: absolute;
+	top: -50px;
+}
+
+h2{
+	position: absolute;
+	top: 22px;
+	left: 40px;
+	color: darkgray;
+}
+
+.three{
+	position: absolute;
+	top: 22px;
+	left: 92px;
+	color: gray;
+}
+
+.four{
+	border: 1px solid white;
+	background-color: whitesmoke;
+	height: 45px;
+	width: 350px;
+	border-radius: 100px;
+	position: absolute;
+	top: 110px;
+	left: 50px;
+}
+
+h4{
+	position: absolute;
+	top: -10px;
+	left: 30px;
+	color: gray;
+	opacity: 0.4
+}
+
+.five{
+    border: 1px solid white;
+	background-color: darkgray;
+	border: none;
+	height: 35px;
+	width: 150px;
+	border-radius: 50px;
+	position: absolute;
+	top: 5px;
+	left: 195px;	
+}
+
+.six{
+
+	color: white;
+	position: absolute;
+	top: -13px;
+	left: 50px;
+}
+
+.seven{
+	position: absolute;
+	top: 110px;
+	left: 50px;
+	color: darkslategray;
+	font-size: 60px;
+}
+
+pre{
+	color: gray;
+	position: absolute;
+	top: 210px;
+	left: 60px;
+}
+
+span{
+	color: white;
+	background-color: gold;
+	border-radius: 50px;
+	padding: 5px;
+}
+
+.eight{
+	height: 290px;
+	width: 320px;
+	border-radius: 20px;
+	background-color: gold;
+	position: absolute;
+	top: 260px;
+	left: 60px;
+	box-shadow: 0px 2px 10px 0px;
+}
+
+h3{
+	color: red;
+	opacity: 0.5;
+	position: absolute;
+	left: 30px;
+}
+
+h6{
+	position: absolute;
+	left: 280px;
+	top: -15px;
+	color: red;
+	opacity: 0.5;
+}
+
+.nine{
+	position: absolute;
+	top: 1px;
+	left: 270px;
+}
+
+h5{
+	font-size: 16px;
+	color: white;
+	position: absolute;
+	top: 16px;
+	left: 258px;
+}
+
+img{
+	height: 100px;
+	width: 150px;
+	position: absolute;
+	top: 35px;
+	left: 70px;
+}
+
+.ten{
+	color: white;
+	position: absolute;
+	top: 120px;
+	opacity: 0.9;
+}
+
+.eleven{
+	position: absolute;
+	top: 138px;
+	left: 180px;
+	background-color: yellow;
+	width: 100px;
+	text-align: center;
+}
+
+.twelve{
+	border: 1px solid gray;
+	border: none;
+	height: 10px;
+	width: 10px;
+	background-color: black;
+	opacity: 0.3;
+	clip-path: polygon(100% 0, 1% 0, 50% 75%);
+    position: absolute;
+    top: 150px;
+    left: 260px;	
+}
+
+hr{
+	width: 100px;
+	opacity: 0.5;
+	position: absolute;
+	top: 170px;
+	left: 30px;
+}
+
+.tharteen{
+	position: absolute;
+	top: 141px;
+	left: 150px;
+	font-size: 13px;
+}
+
+.fourteen{
+	position: absolute;
+	left: 180px;
+}
+
+.fifteen{
+	position: absolute;
+	top: 165px;
+	left: 30px;
+	font-size: 14px;
+	color: white;
+	opacity: 0.9;
+}
+
+.sixteen{
+	position: absolute;
+	top: 192px;
+	left: 180px;
+	background-color: yellow;
+	width: 100px;
+	text-align: center;
+}
+
+.seventeen{
+    border: 1px solid gray;
+	border: none;
+	height: 10px;
+	width: 10px;
+	background-color: black;
+	opacity: 0.3;
+	clip-path: polygon(100% 0, 1% 0, 50% 75%);
+    position: absolute;
+    top: 203px;
+    left: 260px;		
+}
+
+button{
+	width: 260px;
+	height: 30px;
+	border-radius: 50px;
+	border: none;
+	background-color: white;
+	font-size: 12px;
+	position: absolute;
+	top: 240px;
+	left: 28px;
+}
+
+.eighteen{
+	color: lightgray;
+	top: 22px;
+	left: 20px;
+}
+
+.two .nineteen{
+	position: absolute;
+	top: 27px;
+	left: 760px;
+	height: 30px;
+	width: 30px;
+	opacity: 0.7;
+}
+
+.two .twenty{
+	position: absolute;
+	top: 35px;
+	left: 757px;
+	font-size: 8px;
+	background-color: red;
+	border-radius: 50px;
+	width: 10px;
+	height: 10px;
+	color: white;
+}
+
+.two .twentyone{
+	border: 1px solid black;
+	height: 50px;
+	width: 450px;
+	position: absolute;
+	top: 105px;
+	left: 20px;
+	border-radius: 10px;
+	background-color: lightgray;
+	opacity: 0.5;
+	border: none;
+}
+
+.twentyone .twentytwo{
+	position: absolute;
+	left: 50px;
+	top: -12px;
+	color: black;
+}
+
+.twentyone .twentythree{
+	height: 25px;
+	width: 50px;
+	position: absolute;
+	top: 14px;
+	left: 370px;
+}
+
+.two .twentyfour{
+	border: 1px solid black;
+	height: 50px;
+	width: 200px;
+	position: absolute;
+	top: 105px;
+	left: 585px;
+	border-radius: 10px;
+	background-color: lightgreen;
+	opacity: 0.3;
+	border: none; 
+}
+
+.twentyfour .twentyfive{
+	position: absolute;
+	left: 20px;
+	font-size: 10px;
+	color: black;
+}
+
+.twentyfour .twentysix{
+	height: 30px;
+	width: 35px;
+	position: absolute;
+	top: 10px;
+	left: 150px;
+} 
+
+.two .twentyeight{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: none;
+	box-shadow: 0px 0px 5px 0px;
+	height: 110px;
+	width: 170px;
+	position: absolute;
+	top: 260px;
+	left: -30px;
+}
+
+.twentyeight .twentynine{
+	color: black;
+	position: absolute;
+	left: 15px;
+}
+
+.twentyeight .tharty{
+	color: gray;
+	position: absolute;
+	left: 130px;
+}
+
+.twentyeight .thartyone{
+	height: 60px;
+	width: 90px;
+	position: absolute;
+	left: 20px;
+}
+
+.two .thartytwo{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: none;
+	box-shadow: 0px 0px 5px 0px;
+	height: 110px;
+	width: 170px;
+	position: absolute;
+	top: 260px;
+	left: 250px;
+}
+
+.thartytwo .thartythree{
+	color: black;
+	position: absolute;
+	left: 10px;
+}
+
+.thartytwo .thartyfour{
+    height: 60px;
+	width: 90px;
+	position: absolute;
+	left: 20px;
+}
+
+.thartytwo .thartyfive{
+    color: gray;
+	position: absolute;
+	left: 130px;
+}
+
+.two .thartysix{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: none;
+	box-shadow: 0px 0px 5px 0px;
+	height: 110px;
+	width: 170px;
+	position: absolute;
+	top: 260px;
+	left: 535px;
+}
+
+.thartysix .thartyseven{
+	color: black;
+	position: absolute;
+	left: 30px;
+}
+
+.thartysix .thartyeight{
+    height: 65px;
+	width: 90px;
+	position: absolute;
+	left: 5px;
+}
+
+.thartysix .thartynine{
+    color: gray;
+	position: absolute;
+	left: 130px;
+}
+
+.thartysix .fourty{
+	border: 2px solid lightgray;
+	height: 230px;
+	width: 100px;
+	border-bottom: none;
+	border-left: none;
+	border-top: none;
+	position: absolute;
+	left: 145px;
+}
+
+.thartysix .fourtyone{
+	border: 1px solid gray;
+	background-color: gray;
+	height: 25px;
+	width: 7px;
+	border-radius: 50px;
+	position: absolute;
+	left: 242px;
+	top: 20px;
+}
+
+.two .fourtytwo{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: none;
+	box-shadow: 0px 0px 5px 0px;
+	height: 110px;
+	width: 170px;
+	position: absolute;
+	top: 389px;
+	left: -30px;
+}
+
+.fourtytwo .fourtythree{
+	color: black;
+	position: absolute;
+	left: 20px;
+}
+
+.fourtytwo .fourtyfour{
+    height: 65px;
+	width: 100px;
+	position: absolute;
+	left: 5px;
+}
+
+.fourtytwo .fourtyfive{
+    color: gray;
+	position: absolute;
+	left: 130px;
+}
+
+.two .fourtysix{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: none;
+	box-shadow: 0px 0px 5px 0px;
+	height: 110px;
+	width: 170px;
+	position: absolute;
+	top: 389px;
+	left: 250px;
+}
+
+.fourtysix .fourtyseven{
+	color: black;
+	position: absolute;
+	left: 20px;
+}
+
+.fourtysix .fourtyeight{
+    height: 65px;
+	width: 100px;
+	position: absolute;
+	left: 5px;
+}
+
+.fourtysix .fourtynine{
+    color: gray;
+	position: absolute;
+	left: 130px;
+}
+
+.two .fifty{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	border: none;
+	box-shadow: 0px 0px 5px 0px;
+	height: 110px;
+	width: 170px;
+	position: absolute;
+	top: 389px;
+	left: 536px;
+}
+
+.fifty .fiftyone{
+	color: black;
+	position: absolute;
+	left: 20px;
+}
+
+.fifty .fiftytwo{
+    height: 65px;
+	width: 100px;
+	position: absolute;
+	left: 5px;
+}
+
+.fifty .fiftythree{
+    color: gray;
+	position: absolute;
+	left: 130px;
+}
